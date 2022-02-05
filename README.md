@@ -6,7 +6,7 @@
 ![GitHub All Releases](https://img.shields.io/github/downloads/ashalogic/Persian-Sentiment-Analyzer/total)
 ![GitHub issues](https://img.shields.io/github/issues/ashalogic/Persian-Sentiment-Analyzer)
 ![GitHub](https://img.shields.io/github/license/ashalogic/Persian-Sentiment-Analyzer)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ashalogic/Persian-Sentiment-Analyzer/blob/master/Tutorial.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/gist/Mehrdadghassabi/c449341baa87b6662a7313fa34b794d5/tutorial.ipynb)
 
 # Persian Sentiment Analyzer
 ### LSTM Sentiment analysis for Persian text
